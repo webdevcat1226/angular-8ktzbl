@@ -1,4 +1,5 @@
 # SimpleEcommerceSite
+a simple e-commerce site with a catalog, shopping cart, and check-out form
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
